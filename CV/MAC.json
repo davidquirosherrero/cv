@@ -1,0 +1,498 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "David",
+      "surnames": "Quirós",
+      "title": "Strategy, Marketing and Business Development Director at Improving Metrics",
+      "description": "Siempre me he movido muy bien entre la tecnología y el negocio. Esa dualidad viene de mi formación\ncomo Ingeniero de Teleco y mis ganas desde que comencé mi carrera laboral a trabajar cerca del\nnegocio y de las decisiones que mueven los resultados de las empresas.\nEn los 15 años que llevo trabajando he desarrollado diferentes roles siempre muy cerca de la estrategia\npara entender como usan o contratan los usuarios los productos, cual es la mejor manera de impactarles\npublicitariamente, que hacen dentro de las webs/apss y como optimizar ese recorrido para al final\nconseguir el objetivo de la empresas.\nEn mi última etapa como director del area de negocio de Improving Metrics (Marketing, Estrategia y\nVentas) he sido responsable de hacer crecer las ventas tanto a través de nuevos clientes como\ndesarrollando los actuales. También he compaginado mi cargo durante 6 meses con la posición de\nDirector de Operaciones cubriendo una baja de maternidad, siendo responsable de las operaciones de\nla empresa y los aproximadamente 40 empleados.\nMe siento muy cómodo gestionando equipos y ayudando a las personas a aprender y crecer\nprofesionalmente. Rodearse de los mejores y ayudarles a que tengan todo a su alcance para dar lo\nmáximo de un mismo y por lo tanto sumar lo más posible a la empresa.",
+      "avatar": {
+        "alt": "FCA0B8BA-B6B8-4CFC-AC24-6A4A591F9AF6.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/6a410e8f-cfbb-45a7-9825-586c73c24c78_fca0b8ba-b6b8-4cfc-a.jpeg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "La Coruña",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/davidquiros"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/davidquirosherrero/?locale=es_ES"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Improving Metrics",
+          "image": {
+            "alt": "descarga (2).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/68559f50-5e07-49e5-9c15-f7d33a9e3549_descarga-(2).png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Director de Estrategia, Marketing y Desarrollo de Negocio",
+            "startDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": "Responsable de la estrategia de compañía, captación de nuevos clientes y desarrollo de la cartera.\n\n* Director de operaciones 'in acting' (nov 2021 - Junio 2022)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Adobe Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Facebook Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Google AdManager",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Data Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Hubspot",
+                "type": "technology"
+              },
+              {
+                "name": "Linkedin Ads",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Planta 18",
+          "image": {
+            "alt": "descarga.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/20/14991a97-325e-48ce-8560-35b943e3b0d4_descarga.png"
+          },
+          "URL": "https://planta18.com/"
+        },
+        "roles": [
+          {
+            "name": " Digital Strategy Manager",
+            "startDate": "2018-01-01",
+            "finishDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": "- Definición e implementación de la estrategia digital para los clientes de la agencia de marketing experiencial Planta 18.\n- Gestión de los presupuestos y campañas de publicidad digital (SEM, Display, Social Ads y programática).\n- Análisis de los resultados a través de la analítica digital para la mejora continua.\n- Auditorías SEO y ASO para webs y apps"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CG&A m-commerce",
+          "image": {
+            "alt": "19623511-0-logo-cga.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/20/f37be983-c4d2-4314-8921-4bf2154824ab_19623511-0-logo-cga.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Asociado Área Marketing Digital",
+            "startDate": "2016-09-01",
+            "finishDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": "Asociado en el área de Marketing Digital con la consultora de estrategia CGA mcommerce. Responsale de la estrategia digital de los proyectos. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ximobi Interner SL",
+          "image": {
+            "alt": "logo_ximobi_41.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/772678d8-2d28-490b-b81e-efeb081fa6b4_logo_ximobi_41.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Digital Marketing Manager",
+            "startDate": "2014-04-01",
+            "finishDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": "Definición de la estrategia e implementación de las acciones para optimizar la conversión de las campañas de los clientes. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Facebook Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Google AdWords",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Data Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Google Tag Manager",
+                "type": "technology"
+              },
+              {
+                "name": "Instagram Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Linkedin Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Twitter Ads",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance",
+          "image": {
+            "alt": "new-logo-davidquiros.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/b837df6b-e733-4f06-a116-281b20163fb4_new-logo-davidquiros.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Marketing Digital Freelance",
+            "startDate": "2014-04-01",
+            "finishDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": "Ayudo a compañías (desde el IBEX35 a PYMES) a digitalizar sus negocios y exprimir al máximo las posibilidades del mundo online. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Adobe Photoshop",
+                "type": "technology"
+              },
+              {
+                "name": "Facebook Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Google AdManager",
+                "type": "technology"
+              },
+              {
+                "name": "Google AdWords",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Data Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Google Optimize",
+                "type": "technology"
+              },
+              {
+                "name": "Google Tag Manager",
+                "type": "technology"
+              },
+              {
+                "name": "Magento",
+                "type": "technology"
+              },
+              {
+                "name": "Prestashop",
+                "type": "technology"
+              },
+              {
+                "name": "Shopify",
+                "type": "technology"
+              },
+              {
+                "name": "Twitter Ads",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Vodafone España",
+          "image": {
+            "alt": "descarga (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/7f5b4c63-82b3-4f49-b684-e39b4d2060af_descarga-(1).png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Product & Project Manager",
+            "startDate": "2008-10-01",
+            "finishDate": "2009-04-01",
+            "challenges": [
+              {
+                "description": "Product & Project Manager trabajando en el equipo responsable del lanzamiento de productos y servicios de la compañía. Interlocutor con las diferentes áreas: marketing, finanzas, legal, tecnología..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "INDRA",
+          "image": {
+            "alt": "descarga.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/fe379603-39c8-4d64-8b0f-f1672a5c9568_descarga.png"
+          },
+          "URL": ""
+        },
+        "roles": [
+          {
+            "name": "Consultor IT",
+            "startDate": "2007-06-01",
+            "finishDate": "2008-10-01",
+            "challenges": [
+              {
+                "description": "Encargado de la migración de BBDD del CRM y facturador del operador de Telecomunicaciones ONO. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "PL/SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "+30% de facturación FY2022 en Improving Metrics",
+          "description": "Incremento en la facturación de la empresa de un 30% a través del crecimiento de la cartera de clientes y la captación de nuevos."
+        },
+        "type": "achievement",
+        "publishingDate": "2022-12-01",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "details": {
+          "name": "+40% de facturación FY2021 en Improving Metrics",
+          "description": "En mi primer año como director de Ventas, Marketing y Estrategia en Improving Metrics conseguimos incrementar la facturación en un 40% gracias tanto al crecimento de nuevos clientes como a una redefinición de la política de precios. "
+        },
+        "type": "achievement",
+        "publishingDate": "2021-12-01",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "details": {
+          "name": "Incremento de 30pp en el uso recurrente de la App Mi Vodafone",
+          "description": "Trabajando como Digital Marketing Manager en Ximobi después de una colaboración de más de 5 años con Vodafone conseguir incrementar el uso recurrente de la App Mi Vodafone en 30pp gracias a la estrategia e implementación de la misma diseñada por el equipo. "
+        },
+        "type": "achievement",
+        "publishingDate": "2020-04-01",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "details": {
+          "name": "Lanzamiento de las primeras tarifas planas integradas de voz y datos",
+          "description": "Forme parte del equipo en Vodafone que trabajo para lanzar al mercado las primera tarifas planas integrales de voz y datos, colaborando en la definición de producto, requisitando la contratación a través de los canales y ayudando a dimensionar los canales de contratación (online y call center) para dar el nivel de servicio adecuado. "
+        },
+        "type": "launch",
+        "publishingDate": "2011-11-01",
+        "tags": [
+          ""
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Facebook Ads",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Magento",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Prestashop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apple iOS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Twitter Ads",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google AdManager",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google AdWords",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Data Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hubspot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Analytics",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master Internet Business",
+        "startDate": "2013-09-01",
+        "finishDate": "2014-07-01",
+        "institution": {
+          "name": "ISDI",
+          "description": "",
+          "image": {
+            "alt": "descarga (3).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/915560ba-2241-4331-8465-b4303232e935_descarga-(3).png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniero de Telecomunicación",
+        "startDate": "1998-10-01",
+        "finishDate": "2007-05-01",
+        "institution": {
+          "name": "Universidad de Vigo",
+          "description": "Especialidad Telemática (Universidad de Vigo)",
+          "image": {
+            "alt": "descarga.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/6812741b-77f1-4974-8f3f-64df3cf52966_descarga.jpeg"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/davidquirosherrero/?locale=es_ES"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Business Operations & Strategy",
+        "Director / General Manager",
+        "Growth Manager",
+        "Performance Marketing",
+        "Product Manager",
+        "Sales & Business Development"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
