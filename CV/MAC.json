@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Galicia",
-        "municipality": "La Coruña",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "La Coruña"
       }
     },
     "relevantLinks": [
@@ -46,6 +45,7 @@
           {
             "name": "Director de Estrategia, Marketing y Desarrollo de Negocio",
             "startDate": "2021-01-01",
+            "finishDate": "2023-04-01",
             "challenges": [
               {
                 "description": "Responsable de la estrategia de compañía, captación de nuevos clientes y desarrollo de la cartera.\n\n* Director de operaciones 'in acting' (nov 2021 - Junio 2022)."
@@ -280,8 +280,7 @@
           "image": {
             "alt": "descarga.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/fe379603-39c8-4d64-8b0f-f1672a5c9568_descarga.png"
-          },
-          "URL": ""
+          }
         },
         "roles": [
           {
@@ -310,10 +309,7 @@
           "description": "Incremento en la facturación de la empresa de un 30% a través del crecimiento de la cartera de clientes y la captación de nuevos."
         },
         "type": "achievement",
-        "publishingDate": "2022-12-01",
-        "tags": [
-          ""
-        ]
+        "publishingDate": "2022-12-01"
       },
       {
         "details": {
@@ -321,10 +317,7 @@
           "description": "En mi primer año como director de Ventas, Marketing y Estrategia en Improving Metrics conseguimos incrementar la facturación en un 40% gracias tanto al crecimento de nuevos clientes como a una redefinición de la política de precios. "
         },
         "type": "achievement",
-        "publishingDate": "2021-12-01",
-        "tags": [
-          ""
-        ]
+        "publishingDate": "2021-12-01"
       },
       {
         "details": {
@@ -332,10 +325,7 @@
           "description": "Trabajando como Digital Marketing Manager en Ximobi después de una colaboración de más de 5 años con Vodafone conseguir incrementar el uso recurrente de la App Mi Vodafone en 30pp gracias a la estrategia e implementación de la misma diseñada por el equipo. "
         },
         "type": "achievement",
-        "publishingDate": "2020-04-01",
-        "tags": [
-          ""
-        ]
+        "publishingDate": "2020-04-01"
       },
       {
         "details": {
@@ -343,22 +333,17 @@
           "description": "Forme parte del equipo en Vodafone que trabajo para lanzar al mercado las primera tarifas planas integrales de voz y datos, colaborando en la definición de producto, requisitando la contratación a través de los canales y ayudando a dimensionar los canales de contratación (online y call center) para dar el nivel de servicio adecuado. "
         },
         "type": "launch",
-        "publishingDate": "2011-11-01",
-        "tags": [
-          ""
-        ]
+        "publishingDate": "2011-11-01"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -450,7 +435,6 @@
         "finishDate": "2014-07-01",
         "institution": {
           "name": "ISDI",
-          "description": "",
           "image": {
             "alt": "descarga (3).png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/915560ba-2241-4331-8465-b4303232e935_descarga-(3).png"
@@ -492,7 +476,6 @@
         "Product Manager",
         "Sales & Business Development"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
