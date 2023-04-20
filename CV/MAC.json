@@ -35,6 +35,45 @@
     "jobs": [
       {
         "organization": {
+          "name": "8 Belts Idiomas",
+          "image": {
+            "alt": "logo-8b.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/70b9a9fe-84bb-43e3-aef8-75f533d69cef_logo-8b.jpeg"
+          },
+          "URL": "https://w.8belts.com/"
+        },
+        "roles": [
+          {
+            "name": "Paid Adquisition Marketing Manager",
+            "startDate": "2023-04-01",
+            "challenges": [
+              {
+                "description": "Responsable de la captación y gestión de la cartera a través de canales digitales."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Facebook Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Google AdManager",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Hubspot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Improving Metrics",
           "image": {
             "alt": "descarga (2).png",
