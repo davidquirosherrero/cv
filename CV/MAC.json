@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,25 +11,16 @@
       "title": "Strategy, Marketing and Business Development Director at Improving Metrics",
       "description": "Siempre me he movido muy bien entre la tecnología y el negocio. Esa dualidad viene de mi formación\ncomo Ingeniero de Teleco y mis ganas desde que comencé mi carrera laboral a trabajar cerca del\nnegocio y de las decisiones que mueven los resultados de las empresas.\nEn los 15 años que llevo trabajando he desarrollado diferentes roles siempre muy cerca de la estrategia\npara entender como usan o contratan los usuarios los productos, cual es la mejor manera de impactarles\npublicitariamente, que hacen dentro de las webs/apss y como optimizar ese recorrido para al final\nconseguir el objetivo de la empresas.\nEn mi última etapa como director del area de negocio de Improving Metrics (Marketing, Estrategia y\nVentas) he sido responsable de hacer crecer las ventas tanto a través de nuevos clientes como\ndesarrollando los actuales. También he compaginado mi cargo durante 6 meses con la posición de\nDirector de Operaciones cubriendo una baja de maternidad, siendo responsable de las operaciones de\nla empresa y los aproximadamente 40 empleados.\nMe siento muy cómodo gestionando equipos y ayudando a las personas a aprender y crecer\nprofesionalmente. Rodearse de los mejores y ayudarles a que tengan todo a su alcance para dar lo\nmáximo de un mismo y por lo tanto sumar lo más posible a la empresa.",
       "avatar": {
-        "alt": "FCA0B8BA-B6B8-4CFC-AC24-6A4A591F9AF6.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/6a410e8f-cfbb-45a7-9825-586c73c24c78_fca0b8ba-b6b8-4cfc-a.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/6a410e8f-cfbb-45a7-9825-586c73c24c78_fca0b8ba-b6b8-4cfc-a.jpeg",
+        "alt": "FCA0B8BA-B6B8-4CFC-AC24-6A4A591F9AF6.jpeg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)",
         "country": "España",
         "region": "Galicia",
         "municipality": "La Coruña"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/davidquiros"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/davidquirosherrero/?locale=es_ES"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -37,8 +28,8 @@
         "organization": {
           "name": "8 Belts Idiomas",
           "image": {
-            "alt": "logo-8b.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/70b9a9fe-84bb-43e3-aef8-75f533d69cef_logo-8b.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/70b9a9fe-84bb-43e3-aef8-75f533d69cef_logo-8b.jpeg",
+            "alt": "logo-8b.jpeg"
           },
           "URL": "https://w.8belts.com/"
         },
@@ -76,8 +67,8 @@
         "organization": {
           "name": "Improving Metrics",
           "image": {
-            "alt": "descarga (2).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/68559f50-5e07-49e5-9c15-f7d33a9e3549_descarga-(2).png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/68559f50-5e07-49e5-9c15-f7d33a9e3549_descarga-(2).png",
+            "alt": "descarga (2).png"
           }
         },
         "roles": [
@@ -127,8 +118,8 @@
         "organization": {
           "name": "Planta 18",
           "image": {
-            "alt": "descarga.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/20/14991a97-325e-48ce-8560-35b943e3b0d4_descarga.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/20/14991a97-325e-48ce-8560-35b943e3b0d4_descarga.png",
+            "alt": "descarga.png"
           },
           "URL": "https://planta18.com/"
         },
@@ -149,8 +140,8 @@
         "organization": {
           "name": "CG&A m-commerce",
           "image": {
-            "alt": "19623511-0-logo-cga.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/20/f37be983-c4d2-4314-8921-4bf2154824ab_19623511-0-logo-cga.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/20/f37be983-c4d2-4314-8921-4bf2154824ab_19623511-0-logo-cga.png",
+            "alt": "19623511-0-logo-cga.png"
           }
         },
         "roles": [
@@ -168,65 +159,10 @@
       },
       {
         "organization": {
-          "name": "Ximobi Interner SL",
-          "image": {
-            "alt": "logo_ximobi_41.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/772678d8-2d28-490b-b81e-efeb081fa6b4_logo_ximobi_41.jpg"
-          }
-        },
-        "roles": [
-          {
-            "name": "Digital Marketing Manager",
-            "startDate": "2014-04-01",
-            "finishDate": "2021-01-01",
-            "challenges": [
-              {
-                "description": "Definición de la estrategia e implementación de las acciones para optimizar la conversión de las campañas de los clientes. "
-              }
-            ],
-            "competences": [
-              {
-                "name": "Facebook Ads",
-                "type": "technology"
-              },
-              {
-                "name": "Google AdWords",
-                "type": "technology"
-              },
-              {
-                "name": "Google Analytics",
-                "type": "technology"
-              },
-              {
-                "name": "Google Data Studio",
-                "type": "technology"
-              },
-              {
-                "name": "Google Tag Manager",
-                "type": "technology"
-              },
-              {
-                "name": "Instagram Ads",
-                "type": "technology"
-              },
-              {
-                "name": "Linkedin Ads",
-                "type": "technology"
-              },
-              {
-                "name": "Twitter Ads",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Freelance",
           "image": {
-            "alt": "new-logo-davidquiros.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/b837df6b-e733-4f06-a116-281b20163fb4_new-logo-davidquiros.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/b837df6b-e733-4f06-a116-281b20163fb4_new-logo-davidquiros.jpg",
+            "alt": "new-logo-davidquiros.jpg"
           }
         },
         "roles": [
@@ -294,10 +230,65 @@
       },
       {
         "organization": {
+          "name": "Ximobi Interner SL",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/772678d8-2d28-490b-b81e-efeb081fa6b4_logo_ximobi_41.jpg",
+            "alt": "logo_ximobi_41.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Digital Marketing Manager",
+            "startDate": "2014-04-01",
+            "finishDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": "Definición de la estrategia e implementación de las acciones para optimizar la conversión de las campañas de los clientes. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Facebook Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Google AdWords",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Data Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Google Tag Manager",
+                "type": "technology"
+              },
+              {
+                "name": "Instagram Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Linkedin Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Twitter Ads",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Vodafone España",
           "image": {
-            "alt": "descarga (1).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/7f5b4c63-82b3-4f49-b684-e39b4d2060af_descarga-(1).png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/7f5b4c63-82b3-4f49-b684-e39b4d2060af_descarga-(1).png",
+            "alt": "descarga (1).png"
           }
         },
         "roles": [
@@ -317,8 +308,8 @@
         "organization": {
           "name": "INDRA",
           "image": {
-            "alt": "descarga.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/fe379603-39c8-4d64-8b0f-f1672a5c9568_descarga.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/fe379603-39c8-4d64-8b0f-f1672a5c9568_descarga.png",
+            "alt": "descarga.png"
           }
         },
         "roles": [
@@ -379,40 +370,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "Español",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Inglés",
+        "level": "Full professional proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Facebook Ads",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Analytics",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Magento",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Prestashop",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WordPress",
+          "name": "Adobe Analytics",
           "type": "technology"
         }
       },
@@ -424,13 +393,13 @@
       },
       {
         "skill": {
-          "name": "Firebase",
+          "name": "Facebook Ads",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Twitter Ads",
+          "name": "Firebase",
           "type": "technology"
         }
       },
@@ -448,6 +417,12 @@
       },
       {
         "skill": {
+          "name": "Google Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Google Data Studio",
           "type": "technology"
         }
@@ -460,7 +435,25 @@
       },
       {
         "skill": {
-          "name": "Adobe Analytics",
+          "name": "Magento",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Prestashop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Twitter Ads",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
           "type": "technology"
         }
       }
@@ -469,30 +462,50 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Master Internet Business",
-        "startDate": "2013-09-01",
-        "finishDate": "2014-07-01",
-        "institution": {
-          "name": "ISDI",
-          "image": {
-            "alt": "descarga (3).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/915560ba-2241-4331-8465-b4303232e935_descarga-(3).png"
-          }
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
         "name": "Ingeniero de Telecomunicación",
         "startDate": "1998-10-01",
-        "finishDate": "2007-05-01",
         "institution": {
           "name": "Universidad de Vigo",
           "description": "Especialidad Telemática (Universidad de Vigo)",
           "image": {
-            "alt": "descarga.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/6812741b-77f1-4974-8f3f-64df3cf52966_descarga.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/6812741b-77f1-4974-8f3f-64df3cf52966_descarga.jpeg",
+            "alt": "descarga.jpeg"
           }
+        },
+        "finishDate": "2007-05-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master Internet Business",
+        "startDate": "2013-09-01",
+        "institution": {
+          "name": "ISDI",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/915560ba-2241-4331-8465-b4303232e935_descarga-(3).png",
+            "alt": "descarga (3).png"
+          }
+        },
+        "finishDate": "2014-07-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Liderazgo",
+          "type": "practice"
         }
       }
     ]
@@ -501,8 +514,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/davidquirosherrero/?locale=es_ES"
+          "URL": "https://www.linkedin.com/in/davidquirosherrero/?locale=es_ES",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://twitter.com/davidquiros",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "davidquiros@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "699873116",
+          "countryCode": "+34"
         }
       ]
     },
@@ -515,6 +541,10 @@
         "Product Manager",
         "Sales & Business Development"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaría encontrar un puesto de responsabilidad en una empresa con gran parte de su negocio online donde se centra gran parte de mi experiencia. Para mi en estos momentos de mi vida es muy importante la conciliación y el poder trabajar en remoto desde diferentes lugares. "
   }
 }
