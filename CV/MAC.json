@@ -69,7 +69,8 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/68559f50-5e07-49e5-9c15-f7d33a9e3549_descarga-(2).png",
             "alt": "descarga (2).png"
-          }
+          },
+          "URL": "https://improvingmetrics.com"
         },
         "roles": [
           {
@@ -370,12 +371,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Español",
-        "level": "Native or bilingual proficiency"
+        "name": "EN",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Inglés",
-        "level": "Full professional proficiency"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -394,12 +395,6 @@
       {
         "skill": {
           "name": "Facebook Ads",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Firebase",
           "type": "technology"
         }
       },
@@ -424,6 +419,12 @@
       {
         "skill": {
           "name": "Google Data Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Firebase",
           "type": "technology"
         }
       },
