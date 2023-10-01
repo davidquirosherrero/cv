@@ -522,7 +522,7 @@
         },
         {
           "URL": "https://twitter.com/davidquiros",
-          "type": "other"
+          "type": "twitter"
         }
       ],
       "contactMails": [
@@ -548,6 +548,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Facebook Ads",
+        "type": "technology"
+      },
+      {
+        "name": "Google AdManager",
+        "type": "technology"
+      },
+      {
+        "name": "Google Analytics",
+        "type": "technology"
+      },
+      {
+        "name": "Google Data Studio",
+        "type": "technology"
+      },
+      {
+        "name": "Hubspot",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Me gustaría encontrar un puesto de responsabilidad en una empresa con gran parte de su negocio online donde se centra gran parte de mi experiencia. Para mi en estos momentos de mi vida es muy importante la conciliación y el poder trabajar en remoto desde diferentes lugares. "
   }
 }
