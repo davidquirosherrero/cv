@@ -170,6 +170,61 @@
       },
       {
         "organization": {
+          "name": "Ximobi Interner SL",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/772678d8-2d28-490b-b81e-efeb081fa6b4_logo_ximobi_41.jpg",
+            "alt": "logo_ximobi_41.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Digital Marketing Manager",
+            "startDate": "2014-04-01",
+            "finishDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": "Definición de la estrategia e implementación de las acciones para optimizar la conversión de las campañas de los clientes. \n\nPrincipales clientes: Vodafone, Repsol, Mutua Madrileña, Grupo Havas...\n\nLogros: Incremento de 30pp en el uso recurrente de la App Mi Vodafone"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Facebook Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Google Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Data Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Google Tag Manager",
+                "type": "technology"
+              },
+              {
+                "name": "Instagram Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Linkedin Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Twitter Ads",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Freelance",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/b837df6b-e733-4f06-a116-281b20163fb4_new-logo-davidquiros.jpg",
@@ -229,61 +284,6 @@
               },
               {
                 "name": "Shopify",
-                "type": "technology"
-              },
-              {
-                "name": "Twitter Ads",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Ximobi Interner SL",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/772678d8-2d28-490b-b81e-efeb081fa6b4_logo_ximobi_41.jpg",
-            "alt": "logo_ximobi_41.jpg"
-          }
-        },
-        "roles": [
-          {
-            "name": "Digital Marketing Manager",
-            "startDate": "2014-04-01",
-            "finishDate": "2021-01-01",
-            "challenges": [
-              {
-                "description": "Definición de la estrategia e implementación de las acciones para optimizar la conversión de las campañas de los clientes. "
-              }
-            ],
-            "competences": [
-              {
-                "name": "Facebook Ads",
-                "type": "technology"
-              },
-              {
-                "name": "Google Ads",
-                "type": "technology"
-              },
-              {
-                "name": "Google Analytics",
-                "type": "technology"
-              },
-              {
-                "name": "Google Data Studio",
-                "type": "technology"
-              },
-              {
-                "name": "Google Tag Manager",
-                "type": "technology"
-              },
-              {
-                "name": "Instagram Ads",
-                "type": "technology"
-              },
-              {
-                "name": "Linkedin Ads",
                 "type": "technology"
               },
               {
