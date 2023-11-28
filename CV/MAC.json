@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -20,7 +20,17 @@
         "region": "Principado de Asturias",
         "municipality": "Luarca"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/davidquirosherrero/?locale=es_ES"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/davidquiros"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -79,7 +89,7 @@
             "finishDate": "2023-04-01",
             "challenges": [
               {
-                "description": "Responsable de la estrategia de compañía, captación de nuevos clientes y desarrollo de la cartera.\n\n* Director de operaciones 'in acting' (nov 2021 - Junio 2022)."
+                "description": "Responsable de la estrategia de compañía, captación de nuevos clientes y desarrollo de la cartera.\n\n* Director de operaciones 'in acting' (nov 2021 - Junio 2022).\n\nLogros: \n· +30% de facturación FY2021 en Improving Metrics\n· +35% de facturación FY2022 en Improving Metrics"
               }
             ],
             "competences": [
@@ -190,7 +200,7 @@
                 "type": "technology"
               },
               {
-                "name": "Google AdWords",
+                "name": "Google Ads",
                 "type": "technology"
               },
               {
@@ -253,7 +263,7 @@
                 "type": "technology"
               },
               {
-                "name": "Google AdWords",
+                "name": "Google Ads",
                 "type": "technology"
               },
               {
@@ -374,10 +384,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -408,7 +420,7 @@
       },
       {
         "skill": {
-          "name": "Google AdWords",
+          "name": "Google Ads",
           "type": "technology"
         }
       },
